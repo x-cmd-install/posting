@@ -5,19 +5,19 @@ about:
   head: 56703a1
   archived: false
   latestVersion: "2.10.0"
-  collectedAt: 2026-09-07T04:42:19Z
+  collectedAt: 2026-09-07T19:41:09Z
 timeline:
   created: 2024-05-26
   lastCommit: 2026-03-25
   lastRelease: 2026-03-25
 popularity:
-  star: 12378
+  star: 12381
   watcher: 28
   fork: 271
   release: 46
   contributor: 23
   pullRequest: 104
-  issue: 182
+  issue: 183
 language:
   Python: 499236
   SCSS: 14473
@@ -31,7 +31,7 @@ recent:
     mergedPR: 0
     openPR: 5
     closedIssue: 0
-    openIssue: 1
+    openIssue: 2
     commit: 0
   last60d:
     since: 2026-07-09
@@ -39,7 +39,7 @@ recent:
     mergedPR: 0
     openPR: 6
     closedIssue: 1
-    openIssue: 5
+    openIssue: 6
     commit: 0
   last90d:
     since: 2026-06-09
@@ -47,7 +47,7 @@ recent:
     mergedPR: 0
     openPR: 8
     closedIssue: 1
-    openIssue: 6
+    openIssue: 7
     commit: 0
   last180d:
     since: 2026-03-11
@@ -55,7 +55,7 @@ recent:
     mergedPR: 1
     openPR: 11
     closedIssue: 2
-    openIssue: 11
+    openIssue: 12
     commit: 11
   last360d:
     since: 2025-09-12
@@ -63,7 +63,7 @@ recent:
     mergedPR: 12
     openPR: 13
     closedIssue: 9
-    openIssue: 27
+    openIssue: 28
     commit: 27
   last720d:
     since: 2024-09-17
@@ -71,18 +71,18 @@ recent:
     mergedPR: 49
     openPR: 18
     closedIssue: 70
-    openIssue: 63
+    openIssue: 64
     commit: 542
 total:
   release: 46
   mergedPR: 74
   openPR: 18
   closedIssue: 115
-  openIssue: 67
+  openIssue: 68
   commit: 1279
 ---
 path: /home/runner/.x-repo/github.com/darrenburns/posting
-collectedAt: 2026-09-07T04:42:26Z
+collectedAt: 2026-09-07T19:41:14Z
 loc:
   Json:
     code: 66678
@@ -143,7 +143,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:42:27+00:00
+  collectedAt: 2026-09-07T19:41:15+00:00
   platform:
     darwin/arm64:
       name:  null
