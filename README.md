@@ -12,6 +12,18 @@ The modern API client that lives in your terminal.
 x install posting
 ```
 
+## Code insight
+
+Total: **95,192** lines of code across **146** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 66,678 | 0 | 0 | 3 |
+| Svg | 13,571 | 59 | 413 | 60 |
+| Python | 11,702 | 390 | 2,108 | 81 |
+| Html | 1,761 | 4 | 15 | 1 |
+| Sass | 780 | 3 | 115 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/darrenburns/posting>
@@ -24,7 +36,7 @@ x install posting
 
 ## Popularity
 
-- **Stars**: 12,390 · **Forks**: 273 · **Open issues**: 183 · **Contributors**: 23
+- **Stars**: 12,391 · **Forks**: 273 · **Open issues**: 183 · **Contributors**: 23
 
 ## Totals (cumulative)
 
@@ -35,20 +47,23 @@ x install posting
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 6 | 0 | 2 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 7 | 1 | 6 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 9 | 1 | 7 | 0 |
+| last180d | 2026-03-14 | 1 | 0 | 12 | 2 | 12 | 11 |
 | 360d | 2025-09-15 | 4 | 11 | 14 | 8 | 28 | 27 |
+| last720d | 2024-09-20 | 22 | 49 | 19 | 68 | 64 | 539 |
 
-## Code size
+## Distribution status
 
-Total: **95,192** lines of code across **146** files in the top 5 languages.
+Reported by **15** distros on [repology.org](https://repology.org/project/posting). **10** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 66,678 | 0 | 0 | 3 |
-| Svg | 13,571 | 59 | 413 | 60 |
-| Python | 11,702 | 390 | 2,108 | 81 |
-| Html | 1,761 | 4 | 15 | 1 |
-| Sass | 780 | 3 | 115 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.10.0` | ✅ latest |
+| Debian 14 | `2.10.0` | ✅ latest |
+| Ubuntu 26.04 LTS | `2.9.2` | ⚠️ outdated |
+| Homebrew | `2.10.0` | ✅ latest |
+| Nix unstable | `2.10.0` | ✅ latest |
 
 ## Improve this data
 
@@ -59,4 +74,4 @@ Install metadata for posting lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:32:19Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:41:41Z._
