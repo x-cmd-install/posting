@@ -21,11 +21,10 @@ x install posting
 
 - **Latest**: `2.10.0` (2026-03-25)
 - **Last commit**: 2026-03-25
-- **Published**: 2026-03-25T23:30:48Z
 
 ## Popularity
 
-- **Stars**: 12,388 · **Forks**: 273 · **Open issues**: 183 · **Contributors**: 23
+- **Stars**: 12,390 · **Forks**: 273 · **Open issues**: 183 · **Contributors**: 23
 
 ## Totals (cumulative)
 
@@ -56,8 +55,8 @@ Total: **95,192** lines of code across **146** files in the top 5 languages.
 Install metadata for posting lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `posting` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/posting.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/posting.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:46:14Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:32:19Z._
