@@ -1,0 +1,184 @@
+- repo: aur
+  srcname: posting
+  binname: posting
+  visiblename: posting
+  version: 2.10.0
+  origversion: 2.10.0-1
+  status: newest
+  summary: The modern API client that lives in your terminal
+  maintainers:
+    - kchr@aur
+    - vitaliikuzhdin@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: posting-git
+  binname: posting-git
+  visiblename: posting-git
+  version: 2.0.0.r0.g5b9a76b
+  origversion: 2.0.0.r0.g5b9a76b-1
+  status: rolling
+  summary: The modern API client that lives in your terminal
+  maintainers:
+    - kchr@aur
+  licenses:
+    - MIT
+- repo: debian_14
+  subrepo: forky/main
+  srcname: posting
+  binnames:
+    - posting
+  visiblename: posting
+  version: 2.10.0
+  origversion: 2.10.0-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - utils
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: posting
+  binnames:
+    - posting
+  visiblename: posting
+  version: 2.10.0
+  origversion: 2.10.0-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - utils
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: posting
+  binnames:
+    - posting
+  visiblename: posting
+  version: 2.10.0
+  origversion: 2.10.0-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - utils
+- repo: homebrew
+  srcname: posting
+  visiblename: posting
+  version: 2.10.0
+  origversion: null
+  status: newest
+  summary: Modern API client that lives in your terminal
+- repo: kali_rolling
+  subrepo: main
+  srcname: posting
+  binnames:
+    - posting
+  visiblename: posting
+  version: 2.10.0
+  origversion: 2.10.0-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - utils
+- repo: nix_stable_25_05
+  srcname: posting
+  visiblename: posting
+  version: 2.7.0
+  origversion: null
+  status: outdated
+  summary: Modern API client that lives in your terminal
+  maintainers:
+    - vanveenjorik@protonmail.com
+    - fullmetalsheep@proton.me
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: posting
+  visiblename: posting
+  version: 2.9.2
+  origversion: null
+  status: outdated
+  summary: Modern API client that lives in your terminal
+  maintainers:
+    - vanveenjorik@protonmail.com
+    - fullmetalsheep@proton.me
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: posting
+  visiblename: posting
+  version: 2.10.0
+  origversion: null
+  status: newest
+  summary: Modern API client that lives in your terminal
+  maintainers:
+    - vanveenjorik@protonmail.com
+    - fullmetalsheep@proton.me
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: posting
+  visiblename: posting
+  version: 2.10.0
+  origversion: null
+  status: newest
+  summary: Modern API client that lives in your terminal
+  maintainers:
+    - vanveenjorik@protonmail.com
+    - fullmetalsheep@proton.me
+  licenses:
+    - Apache-2.0
+- repo: raspbian_testing
+  subrepo: main
+  srcname: posting
+  binnames:
+    - posting
+  visiblename: posting
+  version: 2.10.0
+  origversion: 2.10.0-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - utils
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: posting
+  binnames:
+    - posting
+  visiblename: posting
+  version: 2.9.2
+  origversion: 2.9.2-1
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/utils
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: posting
+  binnames:
+    - posting
+  visiblename: posting
+  version: 2.9.2
+  origversion: 2.9.2-1
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/utils
+- repo: ubuntu_26_10_proposed
+  subrepo: stonking-proposed/universe
+  srcname: posting
+  binnames:
+    - posting
+  visiblename: posting
+  version: 2.10.0
+  origversion: 2.10.0-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/utils
