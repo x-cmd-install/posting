@@ -12,7 +12,7 @@ The modern API client that lives in your terminal.
 x install posting
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **95,192** 行代码（覆盖前 5 种语言、共 **146** 个文件）。
 
@@ -36,7 +36,7 @@ x install posting
 
 ## 流行度
 
-- **Star**: 12,391 · **Fork**: 273 · **开放 issue**: 183 · **贡献者**: 23
+- **Star**: 12,392 · **Fork**: 273 · **开放 issue**: 183 · **贡献者**: 23
 
 ## 累计统计
 
@@ -74,4 +74,4 @@ posting 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T21:41:42Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:08:57Z._
