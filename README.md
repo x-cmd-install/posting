@@ -14,13 +14,13 @@ x install posting
 
 ## Code insight
 
-Total: **95,192** lines of code across **146** files in the top 5 languages.
+Total: **96,230** lines of code across **153** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 66,678 | 0 | 0 | 3 |
-| Svg | 13,571 | 59 | 413 | 60 |
-| Python | 11,702 | 390 | 2,108 | 81 |
+| Svg | 14,021 | 61 | 427 | 62 |
+| Python | 12,290 | 413 | 2,228 | 86 |
 | Html | 1,761 | 4 | 15 | 1 |
 | Sass | 780 | 3 | 115 | 1 |
 
@@ -32,26 +32,26 @@ Total: **95,192** lines of code across **146** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.10.0` (2026-03-25)
-- **Last commit**: 2026-03-25
+- **Last commit**: 2026-09-25
 
 ## Popularity
 
-- **Stars**: 12,447 · **Forks**: 275 · **Open issues**: 183 · **Contributors**: 23
+- **Stars**: 12,451 · **Forks**: 275 · **Open issues**: 183 · **Contributors**: 26
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 74 · **Open PRs**: 19 · **Closed issues**: 115 · **Open issues**: 68 · **Commits**: 1279
+- **Releases**: 46 · **Merged PRs**: 77 · **Open PRs**: 18 · **Closed issues**: 116 · **Open issues**: 67 · **Commits**: 1289
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-07-27 | 0 | 0 | 7 | 1 | 5 | 0 |
-| 90d | 2026-06-27 | 0 | 0 | 8 | 1 | 6 | 0 |
-| last180d | 2026-03-29 | 0 | 0 | 12 | 1 | 12 | 0 |
-| 360d | 2025-09-30 | 2 | 8 | 14 | 8 | 26 | 23 |
-| last720d | 2024-10-05 | 22 | 49 | 19 | 64 | 64 | 513 |
+| 30d | 2026-08-27 | 0 | 1 | 4 | 0 | 1 | 3 |
+| last60d | 2026-07-28 | 0 | 3 | 6 | 1 | 4 | 5 |
+| 90d | 2026-06-28 | 0 | 3 | 7 | 1 | 6 | 5 |
+| last180d | 2026-03-30 | 0 | 3 | 11 | 1 | 12 | 5 |
+| 360d | 2025-10-01 | 2 | 11 | 13 | 8 | 26 | 28 |
+| last720d | 2024-10-06 | 22 | 52 | 18 | 65 | 63 | 521 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for posting lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:14:47Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:03:14Z._
