@@ -36,7 +36,7 @@ Total: **107,994** lines of code across **214** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 12,460 · **Forks**: 276 · **Open issues**: 183 · **Contributors**: 27
+- **Stars**: 12,461 · **Forks**: 276 · **Open issues**: 183 · **Contributors**: 27
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **107,994** lines of code across **214** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 1 | 7 | 4 | 1 | 0 | 19 |
-| last60d | 2026-07-30 | 1 | 10 | 5 | 3 | 2 | 22 |
-| 90d | 2026-06-30 | 1 | 10 | 6 | 4 | 3 | 22 |
-| last180d | 2026-04-01 | 1 | 11 | 9 | 6 | 7 | 23 |
-| 360d | 2025-10-03 | 3 | 19 | 11 | 14 | 20 | 46 |
-| last720d | 2024-10-08 | 23 | 59 | 16 | 72 | 56 | 556 |
+| 30d | 2026-08-30 | 1 | 7 | 4 | 1 | 0 | 19 |
+| last60d | 2026-07-31 | 1 | 10 | 5 | 3 | 2 | 22 |
+| 90d | 2026-07-01 | 1 | 10 | 6 | 4 | 3 | 22 |
+| last180d | 2026-04-02 | 1 | 11 | 9 | 6 | 7 | 23 |
+| 360d | 2025-10-04 | 3 | 19 | 11 | 14 | 20 | 46 |
+| last720d | 2024-10-09 | 23 | 59 | 16 | 72 | 56 | 553 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for posting lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:35:33Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:48:02Z._
