@@ -146,4 +146,3 @@ total:
 ---
 
 ---
-{"id":404085677,"author":{"login":"darrenburns","id":5740731,"node_id":"MDQ6VXNlcjU3NDA3MzE=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOMA7vFc4YFdut","tag_name":"2.11.2","target_commitish":"main","name":"2.11.2 - Client certificate fixes","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-05T20:50:18Z","updated_at":"2026-10-05T20:51:49Z","published_at":"2026-10-05T20:51:49Z","assets":[],"body":"## Fixed\n\n- Send configured client certificates when using a custom CA bundle file or directory (#325).\n- Load password-protected combined PEM client certificates without a separate key file.\n\n**Upgrade:** `uv tool upgrade posting`, or `pipx upgrade posting`\n"}
