@@ -14,15 +14,15 @@ x install posting
 
 ## Code insight
 
-Total: **108,293** lines of code across **216** files in the top 5 languages.
+Total: **450,558** lines of code across **540** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 66,678 | 0 | 0 | 3 |
-| Svg | 23,186 | 101 | 707 | 102 |
-| Python | 15,175 | 433 | 2,647 | 109 |
-| Html | 1,761 | 4 | 15 | 1 |
-| Sass | 780 | 3 | 115 | 1 |
+| Svg | 321,486 | 101 | 707 | 160 |
+| Json | 66,777 | 0 | 0 | 64 |
+| Go | 41,173 | 2,708 | 2,911 | 199 |
+| Python | 15,442 | 442 | 2,685 | 111 |
+| Css | 2,825 | 82 | 372 | 6 |
 
 ## Source
 
@@ -32,26 +32,26 @@ Total: **108,293** lines of code across **216** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.11.2` (2026-10-05)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-13
 
 ## Popularity
 
-- **Stars**: 12,500 · **Forks**: 285 · **Open issues**: 185 · **Contributors**: 29
+- **Stars**: 12,500 · **Forks**: 286 · **Open issues**: 185 · **Contributors**: 30
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 92 · **Open PRs**: 18 · **Closed issues**: 124 · **Open issues**: 61 · **Commits**: 1331
+- **Releases**: 49 · **Merged PRs**: 93 · **Open PRs**: 19 · **Closed issues**: 125 · **Open issues**: 60 · **Commits**: 1804
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 3 | 13 | 6 | 0 | 2 | 23 |
-| last60d | 2026-08-13 | 3 | 15 | 8 | 2 | 2 | 24 |
-| 90d | 2026-07-14 | 3 | 17 | 8 | 4 | 5 | 27 |
-| last180d | 2026-04-15 | 3 | 18 | 11 | 6 | 8 | 28 |
-| 360d | 2025-10-17 | 4 | 26 | 13 | 14 | 21 | 50 |
-| last720d | 2024-10-22 | 24 | 64 | 18 | 71 | 57 | 512 |
+| 30d | 2026-09-13 | 3 | 14 | 7 | 0 | 2 | 457 |
+| last60d | 2026-08-14 | 3 | 15 | 9 | 2 | 2 | 458 |
+| 90d | 2026-07-15 | 3 | 18 | 9 | 4 | 5 | 461 |
+| last180d | 2026-04-16 | 3 | 19 | 12 | 6 | 8 | 462 |
+| 360d | 2025-10-18 | 4 | 27 | 14 | 14 | 21 | 484 |
+| last720d | 2024-10-23 | 24 | 65 | 19 | 72 | 56 | 985 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for posting lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:10:09Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T06:59:44Z._
