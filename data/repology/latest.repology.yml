@@ -1,16 +1,3 @@
-- repo: ubuntu_26_04
-  subrepo: resolute/universe
-  srcname: posting
-  binnames:
-    - posting
-  visiblename: posting
-  version: 2.9.2
-  origversion: 2.9.2-1
-  status: outdated
-  maintainers:
-    - daniel@debian.org
-  categories:
-    - universe/utils
 - repo: aur
   srcname: posting
   binname: posting
@@ -157,12 +144,25 @@
     - posting
   visiblename: posting
   version: 2.11.2
-  origversion: 2.11.2-1
+  origversion: 2.11.2-2
   status: newest
   maintainers:
     - daniel@debian.org
   categories:
     - utils
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: posting
+  binnames:
+    - posting
+  visiblename: posting
+  version: 2.9.2
+  origversion: 2.9.2-1
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/utils
 - repo: ubuntu_26_10
   subrepo: stonking/universe
   srcname: posting
