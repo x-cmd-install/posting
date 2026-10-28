@@ -1,3 +1,15 @@
+- repo: nix_stable_25_11
+  srcname: posting
+  visiblename: posting
+  version: 2.9.2
+  origversion: null
+  status: outdated
+  summary: Modern API client that lives in your terminal
+  maintainers:
+    - vanveenjorik@protonmail.com
+    - fullmetalsheep@proton.me
+  licenses:
+    - Apache-2.0
 - repo: aur
   srcname: posting
   binname: posting
@@ -83,7 +95,7 @@
     - posting
   visiblename: posting
   version: 2.11.2
-  origversion: 2.11.2-1
+  origversion: 2.11.2-2
   status: newest
   maintainers:
     - daniel@debian.org
@@ -93,18 +105,6 @@
   srcname: posting
   visiblename: posting
   version: 2.7.0
-  origversion: null
-  status: outdated
-  summary: Modern API client that lives in your terminal
-  maintainers:
-    - vanveenjorik@protonmail.com
-    - fullmetalsheep@proton.me
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: posting
-  visiblename: posting
-  version: 2.9.2
   origversion: null
   status: outdated
   summary: Modern API client that lives in your terminal
