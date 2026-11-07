@@ -1,3 +1,15 @@
+- repo: nix_stable_25_05
+  srcname: posting
+  visiblename: posting
+  version: 2.7.0
+  origversion: null
+  status: outdated
+  summary: Modern API client that lives in your terminal
+  maintainers:
+    - vanveenjorik@protonmail.com
+    - fullmetalsheep@proton.me
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_25_11
   srcname: posting
   visiblename: posting
@@ -101,18 +113,6 @@
     - daniel@debian.org
   categories:
     - utils
-- repo: nix_stable_25_05
-  srcname: posting
-  visiblename: posting
-  version: 2.7.0
-  origversion: null
-  status: outdated
-  summary: Modern API client that lives in your terminal
-  maintainers:
-    - vanveenjorik@protonmail.com
-    - fullmetalsheep@proton.me
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: posting
   visiblename: posting
@@ -171,6 +171,32 @@
   visiblename: posting
   version: 2.9.2
   origversion: 2.9.2-1
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/utils
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
+  srcname: posting
+  binnames:
+    - posting
+  visiblename: posting
+  version: 2.9.2
+  origversion: 2.9.2-1
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/utils
+- repo: ubuntu_27_04_proposed
+  subrepo: tenacious-proposed/universe
+  srcname: posting
+  binnames:
+    - posting
+  visiblename: posting
+  version: 2.10.0
+  origversion: 2.10.0-1
   status: outdated
   maintainers:
     - daniel@debian.org
