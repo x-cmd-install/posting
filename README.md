@@ -36,33 +36,33 @@ Total: **464,552** lines of code across **575** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 12,609 · **Forks**: 295 · **Open issues**: 187 · **Contributors**: 30
+- **Stars**: 12,613 · **Forks**: 296 · **Open issues**: 187 · **Contributors**: 30
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 94 · **Open PRs**: 22 · **Closed issues**: 125 · **Open issues**: 62 · **Commits**: 1830
+- **Releases**: 51 · **Merged PRs**: 94 · **Open PRs**: 23 · **Closed issues**: 125 · **Open issues**: 62 · **Commits**: 1830
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 1 | 7 | 0 | 2 | 86 |
-| last60d | 2026-09-09 | 5 | 15 | 11 | 0 | 4 | 479 |
-| 90d | 2026-08-10 | 5 | 18 | 12 | 2 | 4 | 482 |
-| last180d | 2026-05-12 | 5 | 19 | 15 | 4 | 9 | 483 |
-| 360d | 2025-11-13 | 6 | 27 | 17 | 12 | 20 | 505 |
-| last720d | 2024-11-18 | 22 | 62 | 21 | 64 | 57 | 938 |
+| 30d | 2026-10-10 | 2 | 1 | 8 | 0 | 2 | 0 |
+| last60d | 2026-09-10 | 5 | 15 | 12 | 0 | 4 | 479 |
+| 90d | 2026-08-11 | 5 | 18 | 13 | 2 | 4 | 480 |
+| last180d | 2026-05-13 | 5 | 19 | 16 | 4 | 9 | 483 |
+| 360d | 2025-11-14 | 6 | 27 | 18 | 12 | 19 | 505 |
+| last720d | 2024-11-19 | 22 | 61 | 22 | 64 | 57 | 933 |
 
 ## Distribution status
 
-Reported by **17** distros on [repology.org](https://repology.org/project/posting). **8** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **17** distros on [repology.org](https://repology.org/project/posting). **9** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `2.11.2` | ✅ latest |
 | Debian 14 | `2.11.2` | ✅ latest |
 | Ubuntu 26.04 LTS | `2.9.2` | ⚠️ outdated |
-| Homebrew | `2.11.2` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `2.11.2` | ✅ latest |
 
 ## Improve this data
@@ -74,4 +74,4 @@ Install metadata for posting lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:04:46Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:21:58Z._
