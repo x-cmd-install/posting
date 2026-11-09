@@ -1,27 +1,23 @@
-- repo: nix_stable_25_05
+- repo: homebrew
   srcname: posting
   visiblename: posting
-  version: 2.7.0
+  version: HEAD
   origversion: null
-  status: outdated
+  status: rolling
   summary: Modern API client that lives in your terminal
-  maintainers:
-    - vanveenjorik@protonmail.com
-    - fullmetalsheep@proton.me
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
+- repo: kali_rolling
+  subrepo: main
   srcname: posting
+  binnames:
+    - posting
   visiblename: posting
-  version: 2.9.2
-  origversion: null
-  status: outdated
-  summary: Modern API client that lives in your terminal
+  version: 2.11.2
+  origversion: 2.11.2-2
+  status: newest
   maintainers:
-    - vanveenjorik@protonmail.com
-    - fullmetalsheep@proton.me
-  licenses:
-    - Apache-2.0
+    - daniel@debian.org
+  categories:
+    - utils
 - repo: aur
   srcname: posting
   binname: posting
@@ -93,26 +89,30 @@
   origversion: null
   status: newest
   summary: Modern API client that lives in your terminal
-- repo: homebrew
+- repo: nix_stable_25_05
   srcname: posting
   visiblename: posting
-  version: HEAD
+  version: 2.7.0
   origversion: null
-  status: rolling
+  status: outdated
   summary: Modern API client that lives in your terminal
-- repo: kali_rolling
-  subrepo: main
-  srcname: posting
-  binnames:
-    - posting
-  visiblename: posting
-  version: 2.11.2
-  origversion: 2.11.2-2
-  status: newest
   maintainers:
-    - daniel@debian.org
-  categories:
-    - utils
+    - vanveenjorik@protonmail.com
+    - fullmetalsheep@proton.me
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: posting
+  visiblename: posting
+  version: 2.9.2
+  origversion: null
+  status: outdated
+  summary: Modern API client that lives in your terminal
+  maintainers:
+    - vanveenjorik@protonmail.com
+    - fullmetalsheep@proton.me
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: posting
   visiblename: posting
@@ -195,9 +195,9 @@
   binnames:
     - posting
   visiblename: posting
-  version: 2.10.0
-  origversion: 2.10.0-1
-  status: outdated
+  version: 2.11.2
+  origversion: 2.11.2-2
+  status: newest
   maintainers:
     - daniel@debian.org
   categories:
