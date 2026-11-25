@@ -36,7 +36,7 @@ Total: **464,552** lines of code across **575** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 12,655 · **Forks**: 298 · **Open issues**: 189 · **Contributors**: 30
+- **Stars**: 12,660 · **Forks**: 298 · **Open issues**: 189 · **Contributors**: 30
 
 ## Totals (cumulative)
 
@@ -46,24 +46,12 @@ Total: **464,552** lines of code across **575** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 4 | 0 | 3 | 0 |
-| last60d | 2026-09-25 | 5 | 14 | 13 | 0 | 6 | 363 |
-| 90d | 2026-08-26 | 5 | 15 | 14 | 1 | 6 | 480 |
-| last180d | 2026-05-28 | 5 | 18 | 16 | 4 | 11 | 483 |
-| 360d | 2025-11-29 | 6 | 26 | 19 | 12 | 18 | 505 |
-| last720d | 2024-12-04 | 21 | 59 | 22 | 63 | 58 | 921 |
-
-## Distribution status
-
-Reported by **17** distros on [repology.org](https://repology.org/project/posting). **9** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.11.2` | ✅ latest |
-| Debian 14 | `2.11.2` | ✅ latest |
-| Ubuntu 26.04 LTS | `2.9.2` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `2.11.2` | ✅ latest |
+| 30d | 2026-10-26 | 0 | 0 | 4 | 0 | 3 | 0 |
+| last60d | 2026-09-26 | 5 | 8 | 13 | 0 | 6 | 363 |
+| 90d | 2026-08-27 | 5 | 15 | 14 | 1 | 6 | 480 |
+| last180d | 2026-05-29 | 5 | 18 | 16 | 4 | 10 | 483 |
+| 360d | 2025-11-30 | 6 | 26 | 19 | 12 | 17 | 505 |
+| last720d | 2024-12-05 | 21 | 58 | 22 | 63 | 58 | 921 |
 
 ## Improve this data
 
@@ -74,4 +62,4 @@ Install metadata for posting lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:05:11Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:32:16Z._
